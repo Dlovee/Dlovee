@@ -17,3 +17,12 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: I enjoy cooking and creating graphs and charts
 -    Skills: Data cleaning, data analyzing, Data storytelling, data assessment, Tableau, R, SQL, Pivot Tables.
 
+![DenverCrimeStats](https://github.com/Dlovee/Dlovee/assets/134805139/921721a9-7135-4270-bd18-521be0d78b93)
+# Project 1 : Denver crime scene
+This is a project I completed concerning crime in Denver. It was built in R Studios. Some on the funtionalities used are: ggplot2, 
+To achieve this project, I made use of some data processing, data cleaning, data assessment, data analyzing. It was fun and I was able to generate some vital information such as: 
+* Neighborhoods with the highest number of crime
+* The days of the week with the highest number of crime
+* Days of the week with the lowest number of crime
+* Most crime committed 
+* Least crime committed
